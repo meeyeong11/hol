@@ -73,3 +73,4 @@ In the reinforcement learning loop, the authors have both a trianer and multiple
 The training can start with optional seeding process. The neural prover is runned in *rounds*, each round trying to prove a random sample of theorems. The training example pools make additional distinguish between more recent rounds (*fresh* examples can be weighted differently) and order rounds (*historical* examples).    
 During training, the model also ensures that examples from freshly constructed new proofs show up quickly and deterministically during the training process. 
 
+'vs test '
